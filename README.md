@@ -16,9 +16,8 @@ body  {
 <script type="37d51bc11329a8569faf5c8f-text/javascript">
       var data = JSON.parse(
         '{"firmwares": ["4.05", "4.55", "5.05", "5.07", "6.72", "7.02", 9.03], "4.05": ["IDC", "HEN", "Backup", "Dumper","FTP", "[Back]"], "4.55": ["HEN", "PermaEnableBrowser", "[Back]"], "5.05": ["HEN 2.1.4", "Bin-Loader","[Back]"], "5.07": ["HEN", "[Back]"], "6.72": ["LOAD", "[Back]"], "7.02": ["LOAD", "[Back]"], "9.03": ["LOAD", "[Back]"]}');
-      var exploitBase = "./FirmwareSelection/";
-
-      var firmwares = getFirmwares();
+      
+     
 
     
      
