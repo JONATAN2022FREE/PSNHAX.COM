@@ -20,13 +20,8 @@ body  {
 
       var firmwares = getFirmwares();
 
-      window.onload = function() {
-        if (window.location.hash) {
-          firmwareSelected();
-        } else {
-          resetPage();
-        }
-      };
+    
+     
 
       window.document.addEventListener("keyup", function(event) {
         if (event.keyCode === 27) {
