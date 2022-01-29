@@ -4,7 +4,7 @@
 <head>
 <style>
 body  {
-  //background-image: url("https://www.xhardhempus.net/PS4EXPLOIT/wallpaper.jpg");
+  //background
   background-color: #FF4500;
 }
 </style>
