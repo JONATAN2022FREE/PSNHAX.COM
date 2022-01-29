@@ -41,30 +41,16 @@ body  {
 <div id="contentHeader">
 <img src="https://i.imgur.com/zKWEsuT.gif" alt="Girl in a jacket" width="100" height="100">
 <h1 id="title">Firmware Selection</h1>
-<h1 id="title">Forums xHARDHeMPuS</h1>
+<h1 id="title">
 </div>
 <div id="content">
 <div id="contentBody">
 <h2 id="header">Firmware</h2>
 <div id="buttons">
-<a href="https://xhardhempus.net/4.05">
-<button class="btn btn-main">4.05</button>
-</a>
-<a href="https://xhardhempus.net/4.55">
-<button class="btn btn-main">4.55</button>
-</a>
-<a href="https://xhardhempus.net/5.05">
-<button class="btn btn-main">5.05</button>
-</a>
-<a href="https://xhardhempus.net/5.07">
-<button class="btn btn-main">5.07</button>
-</a>
-<a href="https://xhardhempus.net/6.72">
-<button class="btn btn-main">6.72</button>
-</a>
-<br />
-<a href="https://xhardhempus.net/7.02">
-<button class="btn btn-main">7.02</button>
+<a
+ 
+   
+
 </a>
 </div>
 </div>
